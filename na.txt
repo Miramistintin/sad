@@ -1,4 +1,4 @@
-rew
+rew update
 plak
 dog
 456
